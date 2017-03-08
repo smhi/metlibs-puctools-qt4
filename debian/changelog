@@ -1,0 +1,23 @@
+metlibs-common-puctools (5.0.1-1) unstable; urgency=low
+
+  * workaround for bdiana using static libs to build shared lib
+
+ -- Lisbeth Bergholt <lisbeth.bergholt@met.no>  Wed, 05 Feb 2014 15:36:51 +0100
+
+metlibs-common-puctools (5.0.0-3) unstable; urgency=low
+
+  * fixed dependencies
+
+ -- Lisbeth Bergholt <lisbeth.bergholt@met.no>  Wed, 05 Feb 2014 09:01:33 +0100
+
+metlibs-common-puctools (5.0.0-2) unstable; urgency=low
+
+  * m4/googletest.m4
+
+ -- Lisbeth Bergholt <lisbeth.bergholt@met.no>  Tue, 04 Feb 2014 15:35:28 +0100
+
+metlibs-common-puctools (5.0.0-1) unstable; urgency=low
+
+  * Split from all-in-one metlibs
+
+ -- Alexander Carl Friedrich Bürger <alexander.buerger@met.no>  Mon, 03 Feb 2014 09:18:04 +0100
